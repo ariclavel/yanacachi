@@ -7,6 +7,7 @@ function App() {
   return (
     <div>
       <HomePage/>
+      <div><h1 className='hotel-title'>CHIWIQUIÑA</h1></div>
     </div>
   );
 }
